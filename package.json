@@ -1,14 +1,24 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1",
+    "jest": "^26.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squidbeaks/note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/squidbeaks/note-taker/issues"
+  },
+  "homepage": "https://github.com/squidbeaks/note-taker#readme",
+  "keywords": [],
+  "description": ""
 }
