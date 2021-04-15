@@ -1,19 +1,24 @@
 {
-    "notes": [
-      {
-        "id": "0",
-        "title": "Note 1",
-        "text": "Spindle"
-      },
-      {
-        "id": "1",
-        "title": "Note 2",
-        "text": "Spindle"
-      },
-      {
-        "id": "2",
-        "title": "Note 3",
-        "text": "Spindle"
-      }
-    ]
-  }
+  "notes": [
+    {
+      "id": "0",
+      "title": "Note 1",
+      "text": "Spindle"
+    },
+    {
+      "id": "1",
+      "title": "Note 2",
+      "text": "Spindle"
+    },
+    {
+      "id": "2",
+      "title": "Note 3",
+      "text": "Spindle"
+    },
+    {
+      "title": "title!",
+      "text": "text",
+      "id": "3"
+    }
+  ]
+}
